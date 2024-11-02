@@ -1,0 +1,8 @@
+#
+echo 10 30
+mix $2 0 100
+mute 20 30
+mix $1 20 30
+echo 25 30
+mute 30 40
+mix $3 110 150
